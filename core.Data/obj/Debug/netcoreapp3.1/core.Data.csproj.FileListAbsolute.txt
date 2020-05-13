@@ -1,0 +1,11 @@
+D:\Pessoal\coreTests\core.Data\obj\Debug\netcoreapp3.1\core.Data.csprojAssemblyReference.cache
+D:\Pessoal\coreTests\core.Data\obj\Debug\netcoreapp3.1\core.Data.AssemblyInfoInputs.cache
+D:\Pessoal\coreTests\core.Data\obj\Debug\netcoreapp3.1\core.Data.AssemblyInfo.cs
+D:\Pessoal\coreTests\core.Data\bin\Debug\netcoreapp3.1\core.Data.deps.json
+D:\Pessoal\coreTests\core.Data\bin\Debug\netcoreapp3.1\core.Data.dll
+D:\Pessoal\coreTests\core.Data\bin\Debug\netcoreapp3.1\core.Data.pdb
+D:\Pessoal\coreTests\core.Data\bin\Debug\netcoreapp3.1\core.Domain.dll
+D:\Pessoal\coreTests\core.Data\bin\Debug\netcoreapp3.1\core.Domain.pdb
+D:\Pessoal\coreTests\core.Data\obj\Debug\netcoreapp3.1\core.Data.csproj.CopyComplete
+D:\Pessoal\coreTests\core.Data\obj\Debug\netcoreapp3.1\core.Data.dll
+D:\Pessoal\coreTests\core.Data\obj\Debug\netcoreapp3.1\core.Data.pdb

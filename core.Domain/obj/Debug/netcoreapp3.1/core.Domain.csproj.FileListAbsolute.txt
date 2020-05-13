@@ -1,0 +1,8 @@
+D:\Pessoal\coreTests\core.Domain\bin\Debug\netcoreapp3.1\core.Domain.deps.json
+D:\Pessoal\coreTests\core.Domain\bin\Debug\netcoreapp3.1\core.Domain.dll
+D:\Pessoal\coreTests\core.Domain\bin\Debug\netcoreapp3.1\core.Domain.pdb
+D:\Pessoal\coreTests\core.Domain\obj\Debug\netcoreapp3.1\core.Domain.csprojAssemblyReference.cache
+D:\Pessoal\coreTests\core.Domain\obj\Debug\netcoreapp3.1\core.Domain.AssemblyInfoInputs.cache
+D:\Pessoal\coreTests\core.Domain\obj\Debug\netcoreapp3.1\core.Domain.AssemblyInfo.cs
+D:\Pessoal\coreTests\core.Domain\obj\Debug\netcoreapp3.1\core.Domain.dll
+D:\Pessoal\coreTests\core.Domain\obj\Debug\netcoreapp3.1\core.Domain.pdb
